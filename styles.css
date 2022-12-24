@@ -58,7 +58,7 @@ body {
   
   .wrap {
     width: 350px;
-    height: 410px;
+    height: 440px;
     position: relative;
     transform: rotateX(30deg);
     transform-style: preserve-3d;
